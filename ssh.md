@@ -1,4 +1,7 @@
-SSH keys
+# SSH
+
+## SSH keys
+
 An SSH key allows you to establish a secure connection between your computer and KONA Cloud.
 
 Before generating an SSH key, check if your system already has one by running cat ~/.ssh/id_rsa.pub. If you see a long string starting with ssh-rsa or ssh-dsa, you can skip the ssh-keygen step.
